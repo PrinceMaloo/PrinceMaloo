@@ -39,7 +39,7 @@
 
 
 ## Most Used Languages:
-<p align="left">
+<p align="center">
 <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=princemaloo&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
