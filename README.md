@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
+<h1 align="center">Hi 👋, I'm Prince </h1>
 <h3 align="center">Data Scientist</h3>
+<h3 align="center">Welcome to My Github Profile</h3>
 
-
+- 👨‍💻 Hold Expertise on **Data Analytics, Business Analytics and Machine Learning**
 
 - 🌱 I’m currently learning **Deep Learning, LLM**
 
 - 👨‍💻 All of my projects are available at [https://princemaloo.github.io/Prince-Portfolio/](https://princemaloo.github.io/Prince-Portfolio/)
 
-- 💬 Ask me about **Data Science, Kaggle, Business**
+- 💬 Ask me about **Data Science, Business and Tech**
 
-- 📫 How to reach me **jain.69@iitj.ac.in**
+- 📫Reach me at **jain.69@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
