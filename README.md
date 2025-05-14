@@ -4,7 +4,7 @@
 
 - 👨‍💻 Hold Expertise on **Data Analytics, Business Analytics and Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning, LLM**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://princemaloo.github.io/Prince-Portfolio/](https://princemaloo.github.io/Prince-Portfolio/)
 
